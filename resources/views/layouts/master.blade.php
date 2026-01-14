@@ -53,6 +53,21 @@
                     <span>Data Barang</span></a>
             </li>
             <li class="nav-item active">
+<<<<<<< HEAD
+=======
+                <a class="nav-link" href="/admin/barang-masuk">
+                    <i class="fas fa-fw fa-arrow-down text-success"></i>
+                    <span>Barang Masuk</span></a>
+            </li>
+
+            <li class="nav-item active">
+                <a class="nav-link" href="/admin/barang-keluar">
+                    <i class="fas fa-fw fa-box-open"></i>
+                    <span>Barang Keluar</span></a>
+            </li>
+
+            <li class="nav-item active">
+>>>>>>> 80a7f69 (update barang masuk dan barang keluar)
                 <a class="nav-link" href="/admin/laporan">
                     <i class="fas fa-fw fa-file"></i>
                     <span>Laporan</span></a>
